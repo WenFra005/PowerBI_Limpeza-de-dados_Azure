@@ -8,6 +8,8 @@ Esse projeto tem como objetivo criar um relatório visual super claro e fácil d
 
 1. **Microsoft Azure**:  
    - Configuramos um servidor na nuvem da Azure para armazenar o banco de dados. Isso garante que os dados estejam sempre acessíveis e possam crescer conforme necessário.  
+   - *Captura de tela do recurso configurado no Azure:*  
+     ![Recurso Configurado no Azure](https://github.com/WenFra005/PowerBI_Limpeza-de-dados_Azure/blob/main/imagens/Captura%20de%20tela%202025-01-17%20131453.png)
 
 2. **MySQL Workbench**:  
    - Aqui criamos o banco de dados e adicionamos todas as informações necessárias para análise.  
@@ -28,15 +30,17 @@ Esse projeto tem como objetivo criar um relatório visual super claro e fácil d
 
 - **Gráfico 3 (Barras Horizontais)**: Compara a quantidade de projetos por departamento e localização.  
   - **O Que Percebemos**: "Research - Bellaire" e "Administration - Stafford" se destacam como os líderes em número de projetos.  
+  ![Página 1 - análise de departamentos](https://github.com/WenFra005/PowerBI_Limpeza-de-dados_Azure/blob/main/imagens/Imagem1.png)
 
 ---
 
 ### 2. **Análise de Funcionários**  
 - **Gráfico 1 (Barras Horizontais)**: Mostra o total de horas trabalhadas por cada funcionário.  
-  - **O Que Percebemos**: A carga horária dos funcionários é bem equilibrada, com pequenas variações.  
+  - **O Que Percebemos**: A carga horária dos funcionários é bem equilibrada, com pequenas variações.
 
 - **Gráfico 2 (Pizza)**: Representa a proporção de funcionários por gênero.  
   - **O Que Percebemos**: A equipe tem 62,5% de homens e 37,5% de mulheres.  
+  ![Gráfico 2 - Proporção de Funcionários por Gênero](https://github.com/WenFra005/PowerBI_Limpeza-de-dados_Azure/blob/main/imagens/Imagem2.png)
 
 ---
 
@@ -63,4 +67,4 @@ Esse projeto tem como objetivo criar um relatório visual super claro e fácil d
 
 ---
 
-Se tiver dúvidas ou sugestões, é só entrar em contato! 😊
+Se tiver dúvidas ou sugestões, é só entrar em contato!
